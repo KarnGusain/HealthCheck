@@ -1,4 +1,4 @@
-# HealthCheck
+# HealthCheck Module
 HealthCheck repo consists few python written modules for UNIX Systems health status
 
 There are three main modules :
