@@ -10,3 +10,8 @@ There are three main modules :
    not running Services and then sends the e-mail to the desired recepients.
    
 5) mainRun.py  --> This is just import all the above modules and runs as a master module to collect all the output from all these scripts.
+
+
+Note: Just put all these scripts into the same Directoy path along with "mainRun.py" and then run it like below..
+$ ./mainRun.py or
+$ python mainRun.py
