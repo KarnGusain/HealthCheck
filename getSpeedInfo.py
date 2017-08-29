@@ -1,9 +1,9 @@
-#!/grid/common/pkgs/python/v2.7.10/bin/python
+#!/usr/bin/env python
 ##################################################################################################################
 ### Title: getSpeedInfo.py
 ### Version: 02
 ### Published : 30th March 2017
-### Author : Karn Kumar (karn@cadence.com)
+### Author : Karn Kumar (karn.itguy@gmail.com)
 ### Please Don't edit this file with Consulting karn is this Critical to helath check ###
 ### This module is Just captures the running speed of NIC from ethtool & speed file #####
 ### This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
