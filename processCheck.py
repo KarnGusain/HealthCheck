@@ -1,4 +1,12 @@
-#!/grid/common/pkgs/python/v2.7.10/bin/python
+#!/usr/bin/env python
+##################################################################################################################
+### Title: processCheck.py
+### Version: 02
+### Published : 30th March 2017
+### Author : Karn Kumar (karn.itguy@gmail.com)
+### This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+### without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
+##################################################################################################################
 import subprocess
 import socket
 hst_name = (socket.gethostname())
