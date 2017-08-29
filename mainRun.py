@@ -1,4 +1,4 @@
-#!/grid/common/pkgs/python/v2.7.10/bin/python
+#!/usr/bin/env python
 import processCheck
 import fsusaage
 import getSpeedInfo
