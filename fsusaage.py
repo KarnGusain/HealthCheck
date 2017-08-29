@@ -1,8 +1,9 @@
-#!/grid/common/pkgs/python/v2.7.10/bin/python
+#!/usr/bin/env python
 ###################################################################################################################
 #### This Scripts checks the threshold Value and returns the Status of its  Well being.
 #### This Script can be extended to check the number of Filesystem and can be added under the "fs_main" function.
-#### Author : Karn Kumar (last modified 4/20/2017)
+#### Author : Karn Kumar(karn.itguy@gmail.com) 
+##### last modified 4/20/2017)
 ####################################################################################################################
 import subprocess
 import socket
