@@ -3,7 +3,7 @@ import sys
 import re
 var1 = ''
 var2 = ''
-Html_file= open("/scratch/noida-dc/Karn/noi_health_check/healthCheck_result.html","w")
+Html_file= open("/var/healthCheck_result.html","w")
 html_str = """
 <table border=1>
      <tr>
