@@ -1,9 +1,13 @@
 #!/usr/bin/env python
 ###################################################################################################################
-#### This Scripts checks the threshold Value and returns the Status of its  Well being.
-#### This Script can be extended to check the number of Filesystem and can be added under the "fs_main" function.
-#### Author : Karn Kumar(karn.itguy@gmail.com) 
-##### last modified 4/20/2017)
+##### last modified 4/20/2017.
+##### Version: 02
+##### Published : 30th March 2017
+##### Author : Karn Kumar (karn.itguy@gmail.com)
+##### This Scripts checks the threshold Value and returns the Status of its  Well being.
+##### This Script can be extended to check the number of Filesystem and can be added under the "fs_main" function.
+##### This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+##### without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
 ####################################################################################################################
 import subprocess
 import socket
